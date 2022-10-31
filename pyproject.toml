@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "conman"
+version = "0.1.1a0"
+description = "The conman package makes it easy to manage environment specific configuration values."
+authors = ["SamEdwardes <edwardes.s@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

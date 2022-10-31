@@ -1,2 +1,3 @@
 # conman
-The conman package makes it easy to manage environment specific configuration values. 
+
+The conman package makes it easy to manage environment specific configuration values. Inspired by <https://rstudio.github.io/config/articles/introduction.html>.
