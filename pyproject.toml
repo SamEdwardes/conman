@@ -11,6 +11,9 @@ homepage = "https://github.com/samedwardes/conbuddy"
 
 [tool.poetry.dependencies]
 python = "^3.9"
+PyYAML = "^6.0"
+rich = "^12.6.0"
+pydantic = "^1.10.2"
 
 [tool.poetry.group.dev.dependencies]
 jupyter = "^1.0.0"
